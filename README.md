@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ricardocolindres
-- 👀 I’m interested in machine learning
-- 👀 I’m interested in art
+- 👀 I’m interested in machine learning and art!
 - 📫 How to reach me ricardocolindres@me.com
 
 <!---
